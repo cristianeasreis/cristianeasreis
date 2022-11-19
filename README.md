@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @cristianeasreis
+## Sobre 
+<div style="text-align: justify">  
+
+Olá ,Eu sou Cristiane Sou criativa e fascinada por tecnologia e inovação, prezo pelos detalhes, tenho um olhar minimalista e uma grande facilidade em aprender 
+ferramentas novas, disponibilidade e flexibilidade. Estou sempre em busca de conhecimentos que me possibilitem expandir minhas áreas de 
+conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular | Trabalho em equipe é o meu forte.
+
+</div> 
+
+<hr>
+
+<!-- 
+- 👋 Olá ! @cristianeasreis
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 cristianeasreis/cristianeasreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
