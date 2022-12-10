@@ -3,7 +3,7 @@
 
 Olá ,Eu sou Cristiane Sou criativa e fascinada por tecnologia e inovação, prezo pelos detalhes, tenho um olhar minimalista e uma grande facilidade em aprender 
 ferramentas novas, disponibilidade e flexibilidade. Estou sempre em busca de conhecimentos que me possibilitem expandir minhas áreas de 
-conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular | Trabalho em equipe é o meu forte.
+conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular 
 
 </div> 
 
