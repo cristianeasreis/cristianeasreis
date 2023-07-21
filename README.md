@@ -17,9 +17,9 @@ conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular
 [![Gmail Badge](https://img.shields.io/badge/-cristianeara628@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:cristianeara628@gmail.com)](mailto:cristianeara628@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake.svg">
 </picture>
 
 
