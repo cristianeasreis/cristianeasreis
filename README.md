@@ -6,6 +6,7 @@ conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular
 </div> 
 <br>
 <br>
+<hr>
 <div align="center">
   <a href="https://github.com/cristianeasreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,10 +15,10 @@ conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular
 
 <br>
 <br>
-
+<hr>
 ![Snake animation](https://github.com/cristianeasreis/cristianeasreis/blob/output/github-contribution-grid-snake.svg)
 
-
+<hr>
 ### Contato
  [![Linkedin Badge](https://img.shields.io/badge/-Cristiane_Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/)](https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/) 
 [![Gmail Badge](https://img.shields.io/badge/-cristianeara628@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:cristianeara628@gmail.com)](mailto:cristianeara628@gmail.com)
