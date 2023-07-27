@@ -15,8 +15,7 @@ conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular
 
 <br>
 <br>
-<hr>
-<br>
+
 ![Snake animation](https://github.com/cristianeasreis/cristianeasreis/blob/output/github-contribution-grid-snake.svg)
 
 
