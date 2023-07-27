@@ -15,13 +15,6 @@ conhecimento. C# | SQL | JavaScript | HTML | CSS | NodeJs | Angular
 <br>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristianeasreis/cristianeasreis/output/github-contribution-grid-snake.svg">
-</picture>
-<br>
-<br>
 
 ## Contato
  [![Linkedin Badge](https://img.shields.io/badge/-Cristiane_Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/)](https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/) 
