@@ -6,7 +6,7 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack.
 - ⭐: 2x Microsoft Certified: AZ-900 , AI-900
 - :books: Formado em Tecnologia em  Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/).
 
-## 💻 Technologies & Tools
+## 💻 Tecnologias e Ferramentas
 <p align="center">
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
@@ -29,7 +29,6 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
-<hr>
 
  [![Linkedin Badge](https://img.shields.io/badge/-Cristiane_Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/)](https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/) 
 [![Gmail Badge](https://img.shields.io/badge/-cristianeara628@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:cristianeara628@gmail.com)](mailto:cristianeara628@gmail.com)
