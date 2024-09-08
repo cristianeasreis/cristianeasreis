@@ -23,8 +23,8 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack.
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
 </p>
 <br>
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianeasreis&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dracula" alt="cristianeasreis" /></p>
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinobrecht&show_icons=true&locale=en" alt="cristianeasreis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianeasreis&show_icons=true&locale=en&layout=compact" alt="cristianeasreis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&locale=en" alt="cristianeasreis" /></p>
 <br>
 
     
