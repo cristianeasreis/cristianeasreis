@@ -2,7 +2,7 @@
 
 Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack.
 
-- :office_worker: Sr Assoc, Full-Stack Dev na [Avanade](https://www.avanade.com/pt-br)
+- :office_worker: Sr Assoc, Full-Stack Dev
 - Sr Assoc, Business Quality Assurance , Business and Tech Integration AV - Cargo Atual na [Avanade](https://www.avanade.com/pt-br)
 - ⭐: 2x Microsoft Certified: AZ-900 , AI-900
 - :books: Formado em Tecnologia em  Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/).
