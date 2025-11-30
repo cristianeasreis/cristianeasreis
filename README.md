@@ -33,19 +33,13 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack e Analista
 
 </p>
 <br>
-<br>
+
 <div align="center">
   <a href="https://github.com/cristianeasreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-    
-
-
- [![Linkedin Badge](https://img.shields.io/badge/-Cristiane_Araujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/)](https://www.linkedin.com/in/cristiane-araujo-souza-dos-reis-4a6b131a3/) 
-[![Gmail Badge](https://img.shields.io/badge/-cristianeara628@gmail.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:cristianeara628@gmail.com)](mailto:cristianeara628@gmail.com)
 
 
 
