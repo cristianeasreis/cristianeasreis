@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack.
+Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack e Analista Pleno - QA.
 
 - :office_worker: Analista Pleno - QA | Desenvolvedora Full Stack |
 - Analista Pleno - QA | Desenvolvedora Full Stack | , Business and Tech Integration AV - Cargo Atual na [Avanade](https://www.avanade.com/pt-br)
