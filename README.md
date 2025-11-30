@@ -9,7 +9,7 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack e Analista
 
 ## 💻 Tecnologias e Ferramentas
 <p align="center">
- <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
@@ -33,12 +33,6 @@ Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack e Analista
 
 </p>
 <br>
-
-<div align="center">
-  <a href="https://github.com/cristianeasreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
