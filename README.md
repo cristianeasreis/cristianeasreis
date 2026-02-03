@@ -1,11 +1,15 @@
 ## Olá 👋
 
-Meu nome é Cristiane Araujo Souza Dos Reis , Desenvolvedor FullStack e Analista Pleno - QA.
-
-- :office_worker: Analista Pleno - QA | Desenvolvedora Full Stack |
-- Analista Pleno - QA  , Business and Tech Integration AV - Cargo Atual na [Avanade](https://www.avanade.com/pt-br)
-- ⭐: 2x Microsoft Certified: AZ-900 , AI-900
-- :books: Formado em Tecnologia em  Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/).
+Sou uma profissional multidisciplinar com experiência sólida em Qualidade de Software, Desenvolvimento Full Stack e Automação de Testes, atuando em projetos de grande porte nos setores financeiro e saúde.
+Possuo domínio em tecnologias como C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS, além de ampla experiência com bancos de dados (SQL Server, MySQL, PostgreSQL) e arquitetura MVC. Atuo com metodologias ágeis (Scrum/Kanban) e utilizo ferramentas como Azure DevOps, Jira e Xray para gestão completa do ciclo de vida de desenvolvimento e testes.
+Na área de QA, exerço um trabalho orientado à qualidade, estratégia e eficiência, abrangendo:
+• Planejamento e modelagem de cenários e casos de teste (Sprints de 15 dias)
+• Testes funcionais, regressivos e de API
+• Execução de queries para validações em banco de dados
+• Abertura, priorização e acompanhamento de defeitos
+• Cobertura de testes orientada a requisitos
+• Automação com Cypress e testes contínuos com Playwright integrados ao GitHub Actions
+Meu foco é entregar soluções robustas, com alto padrão de qualidade, alinhadas às necessidades do negócio, mantendo sempre uma postura colaborativa, comunicativa e orientada à melhoria contínua.
 
 ## 💻 Tecnologias e Ferramentas
 <p align="center">
