@@ -2,8 +2,9 @@
 
 Sou uma profissional multidisciplinar com experiência sólida em Qualidade de Software, Desenvolvimento Full Stack e Automação de Testes, atuando em projetos de grande porte nos setores financeiro e saúde.
 Possuo domínio em tecnologias como C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS, além de ampla experiência com bancos de dados (SQL Server, MySQL, PostgreSQL) e arquitetura MVC. Atuo com metodologias ágeis (Scrum/Kanban) e utilizo ferramentas como Azure DevOps, Jira e Xray para gestão completa do ciclo de vida de desenvolvimento e testes.
-
+<br>
 Na área de QA, exerço um trabalho orientado à qualidade, estratégia e eficiência, abrangendo:
+<br>
 • Planejamento e modelagem de cenários e casos de teste (Sprints de 15 dias)
 • Testes funcionais, regressivos e de API
 • Execução de queries para validações em banco de dados
