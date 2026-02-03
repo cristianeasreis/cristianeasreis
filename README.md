@@ -6,11 +6,18 @@ Possuo domínio em tecnologias como C#, .NET, Angular, TypeScript, JavaScript, N
 Na área de QA, exerço um trabalho orientado à qualidade, estratégia e eficiência, abrangendo:
 <br>
 • Planejamento e modelagem de cenários e casos de teste (Sprints de 15 dias)
+<br>
 • Testes funcionais, regressivos e de API
+<br>
 • Execução de queries para validações em banco de dados
+<br>
 • Abertura, priorização e acompanhamento de defeitos
+<br>
 • Cobertura de testes orientada a requisitos
+<br>
 • Automação com Cypress e testes contínuos com Playwright integrados ao GitHub Actions
+<br>
+<br>
 Meu foco é entregar soluções robustas, com alto padrão de qualidade, alinhadas às necessidades do negócio, mantendo sempre uma postura colaborativa, comunicativa e orientada à melhoria contínua.
 
 ## 💻 Tecnologias e Ferramentas
