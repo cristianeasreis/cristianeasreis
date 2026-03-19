@@ -1,9 +1,7 @@
-<!-- ===================== BANNER ===================== -->
+
+<!-- Banner (opcional): você pode trocar pelo seu banner próprio depois -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Cristiane%20Araujo%20Souza%20dos%20Reis&fontSize=28&fontColor=ffffff&animation=twinkling" 
-    alt="Cristiane Araujo Souza dos Reis - QA Automation & Full Stack"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Cristiane%20Araujo%20Souza%20dos%20Reis&fontSize=28&fontColor=ffffff&animation=twinkling" alt="banner" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou a Cristiane</h1>
@@ -15,11 +13,17 @@
 
 <p align="center">
   <a href="https://github.com/cristianeasreis">
-    <img 
-      alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-cristianeasreis-111827?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-cristianeasreis-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <!-- Opcional: troque pelos seus links -->
+  <!--
+  <a href="https://www.linkedin.com/in/SEU_LINK/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEU_EMAIL@EMAIL.COM">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  -->
 </p>
 
 ---
@@ -28,108 +32,89 @@
 
 Sou uma **profissional multidisciplinar** com experiência sólida em **Qualidade de Software (QA)**, **Desenvolvimento Full Stack** e **Automação de Testes**, atuando em **projetos de grande porte** nos setores **financeiro** e **saúde**.
 
-Tenho domínio em **C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS**, bancos de dados (**SQL Server, MySQL, PostgreSQL**) e arquitetura **MVC**.
+Tenho domínio em tecnologias como **C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS**, além de ampla experiência com bancos de dados (**SQL Server, MySQL, PostgreSQL**) e arquitetura **MVC**.
 
-Atuo com metodologias ágeis (**Scrum/Kanban**) e utilizo **Azure DevOps, Jira e Xray** para gestão completa do ciclo de vida de desenvolvimento e testes.
+Atuo com metodologias ágeis (**Scrum/Kanban**) e utilizo ferramentas como **Azure DevOps, Jira e Xray** para gestão completa do ciclo de vida de desenvolvimento e testes.
 
 ---
 
 ## 🧪 Qualidade de Software (QA)
 
-- Planejamento e modelagem de cenários e casos de teste  
-- Testes funcionais, regressivos e exploratórios  
-- Testes de API  
-- Validações em banco de dados (SQL)  
-- Gestão e rastreamento de defeitos  
-- Cobertura de testes orientada a requisitos  
+Trabalho orientado à **qualidade, estratégia e eficiência**, abrangendo:
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=postman,swagger,jira" 
-    alt="Ferramentas de QA"
-  />
-</p>
+- Planejamento e **modelagem de cenários e casos de teste** (Sprints de 15 dias)
+- Testes **funcionais**, **regressivos** e **exploratórios**
+- Testes de **API**
+- Execução de **queries SQL** para validações em banco de dados
+- Abertura, priorização e acompanhamento de **defeitos**
+- Cobertura de testes orientada a requisitos
+- Apoio contínuo às equipes de desenvolvimento
 
 ---
 
-
-## 🤖 Automação de Testes & CI/CD
+## 🤖 Automação de Testes
 
 - Automação de testes **E2E** com **Cypress**
 - Testes contínuos com **Playwright**
-- Testes de **API** com **Postman**
-- Validação de contratos com **Swagger / OpenAPI**
-- Integração contínua com **GitHub Actions**
+- Integração com **GitHub Actions** (CI)
 - Apoio à cultura de **CI/CD**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cypress,playwright,postman,swagger,githubactions" alt="Ferramentas de Automação de Testes" />
+  <img src="https://skillicons.dev/icons?i=githubactions,ts,js,nodejs" alt="Automação & CI" />
 </p>
-
 
 ---
 
 ## 💻 Desenvolvimento Full Stack
 
-**Back-end**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" alt="Back-end" />
-</p>
+Experiência no desenvolvimento e manutenção de aplicações web modernas, seguindo boas práticas de arquitetura e código limpo.
 
-**Front-end**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Front-end" />
-</p>
-
-**Arquitetura**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="MVC Architecture" />
-</p>
+**Back-end:** C#, .NET, Node.js  
+**Front-end:** Angular, TypeScript, JavaScript  
+**Web:** HTML, CSS  
+**Arquitetura:** MVC
 
 ---
 
 ## 🗄️ Bancos de Dados
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=mysql,postgres,mssql" 
-    alt="Bancos de dados"
-  />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bancos de dados" />
 </p>
 
-Experiência com consultas, validações e apoio a testes funcionais e automatizados.
+Também atuo com **SQL Server**, realizando consultas, validações, análises de dados e apoio a testes funcionais e automatizados.
 
 ---
 
-## 🛠️ Ferramentas & Plataformas
+## 💻 Tecnologias e Ferramentas
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=git,github,azure,azuredevops,jira" 
-    alt="Ferramentas"
-  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,html,css,git,github,azure" alt="Tech stack" />
 </p>
 
-- Azure DevOps  
-- Jira  
-- Xray  
-- GitHub  
+**Ferramentas & Plataformas**
+- Azure DevOps – gestão de projetos, pipelines e repositórios
+- Jira – gestão de demandas ágeis
+- Xray – gestão de testes e rastreabilidade
+- GitHub – versionamento e automações
 
 ---
 
-## 📊 GitHub em números
+## 📌 Destaques
+
+- Forte senso de **responsabilidade com qualidade**
+- Comunicação clara e trabalho em equipe
+- Visão analítica e foco em resultados
+- Compromisso com **aprendizado contínuo**
+- Alinhamento entre **tecnologia e negócio**
+
+---
+
+## 📊 GitHub em números (opcional)
 
 <p align="center">
-  <img 
-    height="155"
-    src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img 
-    height="155"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -140,10 +125,9 @@ Experiência com consultas, validações e apoio a testes funcionais e automatiz
 
 ✨ Obrigada pela visita!
 
-<!-- ===================== FOOTER ===================== -->
+<!-- Footer -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" 
-    alt="footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" alt="footer" />
 </p>
+
+
