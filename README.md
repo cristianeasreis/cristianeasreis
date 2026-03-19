@@ -52,19 +52,20 @@ Atuo com metodologias ágeis (**Scrum/Kanban**) e utilizo **Azure DevOps, Jira e
 
 ---
 
+
 ## 🤖 Automação de Testes & CI/CD
 
-- Automação E2E com **Cypress**
+- Automação de testes **E2E** com **Cypress**
 - Testes contínuos com **Playwright**
-- Pipelines com **GitHub Actions**
-- Cultura de **CI/CD**
+- Testes de **API** com **Postman**
+- Validação de contratos com **Swagger / OpenAPI**
+- Integração contínua com **GitHub Actions**
+- Apoio à cultura de **CI/CD**
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=cypress,playwright,githubactions,selenium" 
-    alt="Automação de Testes"
-  />
+  <img src="https://skillicons.dev/icons?i=cypress,playwright,postman,swagger,githubactions" alt="Ferramentas de Automação de Testes" />
 </p>
+
 
 ---
 
