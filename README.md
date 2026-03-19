@@ -1,58 +1,132 @@
-## Olá 👋
+<!-- Banner (opcional): você pode trocar pelo seu banner próprio depois -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Cristiane%20Araujo%20Souza%20dos%20Reis&fontSize=28&fontColor=ffffff&animation=twinkling" alt="banner" />
+</p>
 
-Sou uma profissional multidisciplinar com experiência sólida em Qualidade de Software, Desenvolvimento Full Stack e Automação de Testes, atuando em projetos de grande porte nos setores financeiro e saúde.
-<br>
-Possuo domínio em tecnologias como C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS, além de ampla experiência com bancos de dados (SQL Server, MySQL, PostgreSQL) e arquitetura MVC. Atuo com metodologias ágeis (Scrum/Kanban) e utilizo ferramentas como Azure DevOps, Jira e Xray para gestão completa do ciclo de vida de desenvolvimento e testes.
-<br>
-<br>
-Na área de QA, exerço um trabalho orientado à qualidade, estratégia e eficiência, abrangendo:
-<br>
-• Planejamento e modelagem de cenários e casos de teste (Sprints de 15 dias)
-<br>
-• Testes funcionais, regressivos e de API
-<br>
-• Execução de queries para validações em banco de dados
-<br>
-• Abertura, priorização e acompanhamento de defeitos
-<br>
-• Cobertura de testes orientada a requisitos
-<br>
-• Automação com Cypress e testes contínuos com Playwright integrados ao GitHub Actions
-<br>
-<br>
-Meu foco é entregar soluções robustas, com alto padrão de qualidade, alinhadas às necessidades do negócio, mantendo sempre uma postura colaborativa, comunicativa e orientada à melhoria contínua.
+<h1 align="center">👋 Olá, eu sou a Cristiane</h1>
+
+<p align="center">
+  <b>QA • Automação de Testes • Full Stack</b><br/>
+  Qualidade, eficiência e entrega de valor ao negócio
+</p>
+
+<p align="center">
+  <a href="https://github.com/cristianeasreis">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-cristianeasreis-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <!-- Opcional: troque pelos seus links -->
+  <!--
+  <a href="https://www.linkedin.com/in/SEU_LINK/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEU_EMAIL@EMAIL.COM">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  -->
+</p>
+
+---
+
+## ✨ Sobre mim
+
+Sou uma **profissional multidisciplinar** com experiência sólida em **Qualidade de Software (QA)**, **Desenvolvimento Full Stack** e **Automação de Testes**, atuando em **projetos de grande porte** nos setores **financeiro** e **saúde**.
+
+Tenho domínio em tecnologias como **C#, .NET, Angular, TypeScript, JavaScript, Node.js, HTML, CSS**, além de ampla experiência com bancos de dados (**SQL Server, MySQL, PostgreSQL**) e arquitetura **MVC**.
+
+Atuo com metodologias ágeis (**Scrum/Kanban**) e utilizo ferramentas como **Azure DevOps, Jira e Xray** para gestão completa do ciclo de vida de desenvolvimento e testes.
+
+---
+
+## 🧪 Qualidade de Software (QA)
+
+Trabalho orientado à **qualidade, estratégia e eficiência**, abrangendo:
+
+- Planejamento e **modelagem de cenários e casos de teste** (Sprints de 15 dias)
+- Testes **funcionais**, **regressivos** e **exploratórios**
+- Testes de **API**
+- Execução de **queries SQL** para validações em banco de dados
+- Abertura, priorização e acompanhamento de **defeitos**
+- Cobertura de testes orientada a requisitos
+- Apoio contínuo às equipes de desenvolvimento
+
+---
+
+## 🤖 Automação de Testes
+
+- Automação de testes **E2E** com **Cypress**
+- Testes contínuos com **Playwright**
+- Integração com **GitHub Actions** (CI)
+- Apoio à cultura de **CI/CD**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,ts,js,nodejs" alt="Automação & CI" />
+</p>
+
+---
+
+## 💻 Desenvolvimento Full Stack
+
+Experiência no desenvolvimento e manutenção de aplicações web modernas, seguindo boas práticas de arquitetura e código limpo.
+
+**Back-end:** C#, .NET, Node.js  
+**Front-end:** Angular, TypeScript, JavaScript  
+**Web:** HTML, CSS  
+**Arquitetura:** MVC
+
+---
+
+## 🗄️ Bancos de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bancos de dados" />
+</p>
+
+Também atuo com **SQL Server**, realizando consultas, validações, análises de dados e apoio a testes funcionais e automatizados.
+
+---
 
 ## 💻 Tecnologias e Ferramentas
+
 <p align="center">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/visual studio code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/visual studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="25"/>
-<img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" height="25"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=whit" height="25"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=whitE" height="25"/>
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nodejs,html,css,git,github,azure" alt="Tech stack" />
 </p>
-<br>
 
+**Ferramentas & Plataformas**
+- Azure DevOps – gestão de projetos, pipelines e repositórios
+- Jira – gestão de demandas ágeis
+- Xray – gestão de testes e rastreabilidade
+- GitHub – versionamento e automações
 
+---
 
+## 📌 Destaques
 
+- Forte senso de **responsabilidade com qualidade**
+- Comunicação clara e trabalho em equipe
+- Visão analítica e foco em resultados
+- Compromisso com **aprendizado contínuo**
+- Alinhamento entre **tecnologia e negócio**
 
+---
 
+## 📊 GitHub em números (opcional)
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🔗 Vamos nos conectar?
+
+- 💻 GitHub: https://github.com/cristianeasreis
+
+✨ Obrigada pela visita!
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" alt="footer" />
+</p>
 
 
