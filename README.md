@@ -1,7 +1,7 @@
 
 <!-- Banner (opcional): você pode trocar pelo seu banner próprio depois -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Cristiane20Souza%20dos%20Reis&fontSize=28&fontColor=ffffff&animation=twinkling" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Cristiane20%Souza%20dos%20Reis&fontSize=28&fontColor=ffffff&animation=twinkling" alt="banner" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou a Cristiane</h1>
