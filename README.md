@@ -110,15 +110,6 @@ Também atuo com **SQL Server**, realizando consultas, validações, análises d
 
 ---
 
-## 📊 GitHub em números (opcional)
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=cristianeasreis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianeasreis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ## 🔗 Vamos nos conectar?
 
 - 💻 GitHub: https://github.com/cristianeasreis
