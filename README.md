@@ -113,6 +113,7 @@ Também atuo com **SQL Server**, realizando consultas, validações, análises d
 ## 🔗 Vamos nos conectar?
 
 - 💻 GitHub: https://github.com/cristianeasreis
+- 💻 linkedin: https://www.linkedin.com/in/cristiane-souza-dos-reis
 
 ✨ Obrigada pela visita!
 
